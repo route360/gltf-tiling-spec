@@ -121,7 +121,7 @@ meridianal axis from north to south.
 
 <code>z</code> is not considered to be a third dimension but rather the
 current zoom level. Three dimensional data is not covered by this
-specification and sould be flattened.
+specification and should be flattened.
 
 ====Generalization====
 
